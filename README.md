@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Imane Abdelkhalk 👋
 
-<!--
-**ImaneAbdel77/ImaneAbdel77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 5th-year Software Engineering student at EMSI (Morocco)  
+☁️ Passionate about **DevOps & Cloud**  
+💻 Interested in **Automation, Shift Left, CI/CD(Jenkins, Gitlab CI), Docker and Kubernetes**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- Learning **Cloud Security, OpenShift, Terraform and AWS**  
+- Building projects with **DevSecOps, ArgoCD, OpenShift, GitLab CI/CD, Jenkins, Azure**  
+
+---
+
+### 📫 Contact
+- Email: Imane.abdel77@gmail.com
+- LinkedIn: www.linkedin.com/in/imaneabdelkhalk
+
+
+---
+
+⭐️ Check out my repositories below to see my projects!
